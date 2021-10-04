@@ -17,9 +17,9 @@
 
 <br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pzarabadip&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhymel&show_icons=true&count_private=true&hide_border=true&custom_title=My%20Github%20Stats " alt="reisub0" /> </p>
   
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pzarabadip.pzarabadip) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jhymel.jhymel) 
