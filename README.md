@@ -3,11 +3,6 @@
     <a href="https://scholar.google.com/citations?hl=en&user=v5HhVP0AAAAJ"><img alt="google scholar" align="center" src="https://img.shields.io/badge/Google_Scholar-JHYMEL-blue?logo=google-scholare&style=plastic" /></a>
     </p> 
 </div>
-
-<br/>
-
-### John Hymel
-
 ---
 
 ### Current electrochemistry project(s)
