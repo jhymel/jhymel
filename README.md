@@ -1,5 +1,5 @@
 <div align="left"> 
-  <p><a href="https://www.linkedin.com/in/john-hymel-4a2137191/"><img alt="linkedin @pzarabadip" align="center" src="https://img.shields.io/badge/LinkedIn-PZARABADIP-blue?logo=linkedin&style=plastic" /></a>
+  <p><a href="https://www.linkedin.com/in/john-hymel-4a2137191/"><img alt="linkedin @jhymel" align="center" src="https://img.shields.io/badge/LinkedIn-PZARABADIP-blue?logo=linkedin&style=plastic" /></a>
     <a href="https://scholar.google.com/citations?hl=en&user=v5HhVP0AAAAJ"><img alt="google scholar" align="center" src="https://img.shields.io/badge/Google_Scholar-PZARABADIP-blue?logo=google-scholare&style=plastic" /></a>
     </p> 
 </div>
