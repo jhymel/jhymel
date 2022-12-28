@@ -9,13 +9,5 @@
 ### Current electrochemistry project(s)
 * [MM_base](https://github.com/jhymel/MM_base/): Libraries for running basic molecular dynamics (MD) simulations in OpenMM
 * [Fixed_Voltage_OpenMM](https://github.com/jhymel/Fixed_Voltage_OpenMM): Libraries for simulating an electrode/electrolyte interface under applied voltage
-* [Fixed_Voltage_Redox_OpenMM](https://github.com/jhymel/Fixed_Voltage_Redox_OpenMM): Libraries for computing free energies of simple oxidation-reduction reactions using thermodynamic intergration
-
-<br/>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhymel&show_icons=true&count_private=true&hide_border=true&custom_title=My%20Github%20Stats " alt="reisub0" /> </p>
-  
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jhymel.jhymel) 
+* [QM/MM/MD](https://github.com/johnppederson/QM_MM_MD): Libraries for fantastic QM/MM code written by [John Pederson](https://github.com/johnppederson) using Psi4 and OpenMM
+* [Well-sliced Metadynamics Reweighting](https://github.com/jhymel/Well-sliced-metadynamics-reweighting): Code for reweighting biased simulations incorporating combined metadynamics and umbrella sampling
