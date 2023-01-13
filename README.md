@@ -10,4 +10,5 @@
 * [MM_base](https://github.com/jhymel/MM_base/): Libraries for running basic molecular dynamics (MD) simulations in OpenMM
 * [Fixed_Voltage_OpenMM](https://github.com/jhymel/Fixed_Voltage_OpenMM): Libraries for simulating an electrode/electrolyte interface under applied voltage
 * [QM/MM/MD](https://github.com/johnppederson/QM_MM_MD): Libraries for fantastic QM/MM code written by [John Pederson](https://github.com/johnppederson) using Psi4 and OpenMM
+* [WHAM](https://github.com/jhymel/WHAM): Implementations of the Weighted Histogram Analysis Method (WHAM) in 1D and 2D
 * [Well-sliced Metadynamics Reweighting](https://github.com/jhymel/Well-sliced-metadynamics-reweighting): Code for reweighting biased simulations incorporating combined metadynamics and umbrella sampling
